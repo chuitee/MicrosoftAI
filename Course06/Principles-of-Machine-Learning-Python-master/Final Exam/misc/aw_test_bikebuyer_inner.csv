@@ -1,0 +1,5 @@
+CustomerID,Title,FirstName,MiddleName,LastName,Suffix,AddressLine1,AddressLine2,City,StateProvinceName,CountryRegionName,PostalCode,PhoneNumber,BirthDate,Education,Occupation,Gender,MaritalStatus,HomeOwnerFlag,NumberCarsOwned,NumberChildrenAtHome,TotalChildren,YearlyIncome,BikeBuyer
+18593,,Sydney,C,Martinez,,5165 Cambridge Drive,,Renton,Washington,United States,98055,782-555-0110,7/3/1965,Bachelors ,Skilled Manual,F,S,0,2,3,3,121950,1
+26497,,Karen,,Sanchez,,6036 Park Glenn,,Issaquah,Washington,United States,98027,181-555-0184,7/6/1948,Partial College,Professional,F,M,1,1,1,2,66343,0
+15407,,Julia,,Lee,,3148 Rose Street,,Bothell,Washington,United States,98011,870-555-0110,9/6/1953,Graduate Degree,Management,F,S,1,2,0,3,72787,0
+15778,,José,S,Miller,,9008 Creekside Drive,,Everett,Washington,United States,98201,528-555-0143,5/10/1957,Partial College,Professional,M,S,1,0,1,2,98760,0
